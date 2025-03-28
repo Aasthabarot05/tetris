@@ -38,14 +38,25 @@ After successful compilation, run the game using the following command:
 ./tetris
 ## Screenshots
 **Main Menu:**
-🧱==========================🧱 🎮 TETRIS GAME 🎮
-🧱==========================🧱 Controls: ← - Move Left → - Move Right ↓ - Move Down ↑ - Rotate Space - Hard Drop P - Pause/Resume Q - Quit Press any key to start...
+🧱==========================🧱 
+      🎮 TETRIS GAME 🎮
+🧱==========================🧱 
+Controls: 
+← - Move Left
+→- Move Right 
+↓ - Move Down 
+↑ - Rotate Space 
+- Hard Drop
+- P - Pause/Resume
+- Q - Quit
+- Press any key to start...
+
+
+
 **Game Over Screen:**
-🔥====================🔥 💀 GAME OVER 💀
-🔥====================🔥 Final Score: 500 High Score: 1000 Press any key to exit...
-
-pgsql
-Copy
-
-
-**Game Over Screen:**
+🔥====================🔥 
+    💀 GAME OVER 💀
+🔥====================🔥 
+Final Score: 500 
+High Score: 1000 
+Press any key to exit...
