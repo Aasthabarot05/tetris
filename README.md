@@ -6,28 +6,73 @@ Get ready to stack, rotate, and clear rows in this ultimate puzzle challenge. Ar
 
 ---
 
-## 🏆 Features & Highlights
+#🎮** How to Play Tetris Game: Emoji Edition**
+Tetris Game: Emoji Edition is based on the classic Tetris puzzle game, but with a fun twist—each Tetrimino (the falling blocks) is represented by a different emoji! Your goal is to manipulate these falling pieces in such a way that they form full rows without leaving gaps.
 
-- **Tetriminos with Emojis**: Each Tetrimino block is an emoji! From 🟦 to 🟧, every block is a different color and vibe.
-- **Multiple Difficulty Levels**: Choose from **Easy**, **Medium**, or **Hard** to challenge yourself and increase the speed of the falling pieces.
-- **Real-Time Score Tracking**: Track your **current score** and see if you can beat your **high score**.
-- **Pause & Resume**: You can pause the game and come back to it when you’re ready!
-- **Hard Drop**: Drop your piece instantly with a hard drop (spacebar) and speed up the game.
-- **Classic Tetris Mechanics**: Move, rotate, and clear rows as you would in the original Tetris, but with a creative emoji touch!
+Objective of the Game:
+Your main objective is to fit the falling Tetriminos (emoji-shaped blocks) into the grid to clear full horizontal lines. The more lines you clear, the more points you get! However, if the stack of blocks reaches the top of the screen, the game is over.
 
----
+Controls:
+← (Left Arrow): Move the piece to the left.
 
-## 🎮 How to Play
+→ (Right Arrow): Move the piece to the right.
 
-The rules are simple – just like the classic Tetris game, but now with a modern emoji twist! Here's how you can play:
+↓ (Down Arrow): Move the piece down.
 
-### **Controls:**
-- **←**: Move the piece to the left
-- **→**: Move the piece to the right
-- **↓**: Move the piece down
-- **↑**: Rotate the piece
-- **Spacebar**: Hard Drop (instantly drop the piece)
-- **P**: Pause/Resume the game
-- **Q**: Quit the game
+↑ (Up Arrow): Rotate the piece (change its orientation).
+
+Spacebar: Hard Drop (instantly drop the piece to the bottom).
+
+P: Pause/Resume the game. You can take a break and come back later.
+
+Q: Quit the game.
+
+Gameplay Mechanics:
+Falling Tetriminos: The game consists of falling blocks called Tetriminos. These blocks come in different shapes and sizes, and they fall from the top of the screen. They are represented by emojis in this version, making the game visually interesting.
+
+Move and Rotate:
+
+As the blocks fall, you can move them left or right using the arrow keys.
+
+You can also rotate the block using the up arrow to fit it better into the space below.
+
+Moving down speeds up the block’s descent, while using the spacebar will drop the piece instantly to the bottom of the screen (hard drop).
+
+Clearing Rows:
+
+The goal is to fill up an entire row of the grid with Tetriminos. When a row is completely filled, it will disappear, and you will earn points.
+
+The more rows you clear at once, the more points you earn! Clearing multiple rows at the same time can give you bonus points.
+
+Game Speed:
+
+As you progress, the blocks will fall faster. You can adjust the difficulty of the game in the beginning by choosing from Easy, Medium, or Hard levels.
+
+Hard mode makes the pieces fall much faster, making the game more challenging.
+
+End of the Game:
+
+The game ends when the blocks stack up to the top of the screen, and no more pieces can be placed.
+
+Your score will be saved as your current score, and you can compare it with your high score.
+
+Tips & Strategies:
+Plan Ahead: Don't place pieces randomly. Try to clear lines strategically by creating a solid structure.
+
+Use Rotation to Your Advantage: Pieces can be rotated to fit into tight spaces, so make sure to rotate them to get the best fit.
+
+Hard Drop: If you're in a hurry or want to quickly get rid of a piece, use the spacebar to hard drop it to the bottom.
+
+Pause for Breaks: If you need a moment to think, hit P to pause the game and resume when you're ready.
+
+Objective Summary:
+Clear rows by placing Tetriminos to form full horizontal lines.
+
+Earn points for each line cleared.
+
+Challenge yourself to clear more rows as the game speeds up.
+
+Avoid stacking pieces to the top, or the game will end.
+
 
 
