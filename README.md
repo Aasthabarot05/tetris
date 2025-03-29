@@ -69,7 +69,7 @@ To play **Tetris Game: Emoji Edition**, you will need to have the following:
 1. **Clone the repository** to your local machine:
 
     ```bash
-    git clone https://github.com/yourusername/tetris-emoji-edition.git
+    git clone https://github.com/aastha barot/tetris-emoji-edition.git
     ```
 
 2. **Navigate to the project folder**:
@@ -82,19 +82,19 @@ To play **Tetris Game: Emoji Edition**, you will need to have the following:
    - For **GCC** or **MinGW**:
 
      ```bash
-     g++ -o tetris_game main.cpp
+     g++ -o finaltetris.cpp
      ```
 
    - Or using **Microsoft Visual Studio**:
-     1. Open the `main.cpp` file in Visual Studio.
+     1. Open the `finaltetris.cpp` file in Visual Studio.
      2. Build and run the project directly from the IDE.
 
 4. **Run the game**:
 
-    - After compiling, simply execute the `tetris_game` file:
+    - After compiling, simply execute the `finaltetris` file:
 
     ```bash
-    ./tetris_game
+    ./finaltetris
     ```
 
 ---
